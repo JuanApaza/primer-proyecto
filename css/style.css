@@ -8,4 +8,26 @@ h1{
 }
 .primer-parrafo{
     color: coral;
+<<<<<<< HEAD
+=======
+}
+header{
+    display: flex;
+    background-color: #fafafa;
+    height: 90px;
+    justify-content: space-between;
+    padding: 0 32px 0 32px;
+}
+nav{
+    display: flex;
+}
+nav ul{
+    display: flex;
+    padding: 0;
+}
+nav li{
+    list-style: none;
+    padding: 0 16px 0 16px;
+    
+>>>>>>> cabecera
 }
